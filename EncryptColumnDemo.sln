@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptColumnDemo", "EncryptColumnDemo\EncryptColumnDemo.csproj", "{E57EA9E5-2862-439E-8166-1F9CC077CCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57EA9E5-2862-439E-8166-1F9CC077CCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57EA9E5-2862-439E-8166-1F9CC077CCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57EA9E5-2862-439E-8166-1F9CC077CCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57EA9E5-2862-439E-8166-1F9CC077CCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {553779F5-C239-483A-8F42-31AEEC1DE67B}
+	EndGlobalSection
+EndGlobal
